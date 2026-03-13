@@ -39,7 +39,7 @@ Python · Pandas · Scikit-learn · XGBoost · SHAP · Matplotlib · Seaborn
 ## How to Run
 1. Download the dataset from Kaggle (link above)
 2. Open the notebook in Google Colab using the button below
-3. Update `base_path` in the Setup cell to your own directory
+3. Update `file_path` in the Setup cell to your own directory
 4. Run all cells
 
 ## Author
